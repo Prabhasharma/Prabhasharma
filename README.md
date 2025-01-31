@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hey, I'm Prabha Sharma!
+🚀 Web Developer | C++ Enthusiast | DSA Explorer
+💻 Frontend Developer (React.js) | Learning Full-Stack Web Development
+📌 Passionate about solving DSA problems & building real-world projects
 
-<!--
-**Prabhasharma/Prabhasharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Skills & Tech Stack:
+🔹 Languages: C++, JavaScript
+🔹 Frontend: HTML, CSS, React.js
+🔹 Tools: Git, GitHub
+🔹 Currently Learning: Node.js, Express.js, MongoDB, Three.js
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 Let's Connect!  
+🔗 Check out my work on GitHub: https://github.com/Prabhasharma  
+💼 Connect with me on LinkedIn: https://www.linkedin.com/in/prabha-sharma-62188a28b/
